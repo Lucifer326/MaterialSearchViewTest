@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+     https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+    <!-- thickness of line between rows -->
+    <dimen name="card_insets">2dp</dimen>
+
+    <dimen name="card_min_width">240dp</dimen>
+    <dimen name="card_staggered_height">240dp</dimen>
+
+    <dimen name="text_size_small">14dp</dimen>
+    <dimen name="text_size_medium">18dp</dimen>
+    <dimen name="text_size_large">22dp</dimen>
+    <dimen name="text_size_xl">28dp</dimen>
+    <dimen name="text_size_xxl">32dp</dimen>
+    <dimen name="text_size_xxxl">36dp</dimen>
+
+    <!--  FastScroller Custom - CustomScrollerViewProvider -->
+    <dimen name="custom_handle_width">80dp</dimen>
+    <dimen name="custom_handle_height">30dp</dimen>
+    <dimen name="custom_bubble_size">100dp</dimen>
+
+</resources>
