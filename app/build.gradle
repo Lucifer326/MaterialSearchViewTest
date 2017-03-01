@@ -33,4 +33,5 @@ dependencies {
 
     compile 'com.futuremind.recyclerfastscroll:fastscroll:0.2.4'
 
+    compile 'com.miguelcatalan:materialsearchview:1.4.0'
 }

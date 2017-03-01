@@ -23,4 +23,8 @@
         <item>About</item>
     </string-array>
 
+    <string-array name="query_suggestions">
+        <item>Jose</item>
+    </string-array>
+
 </resources>

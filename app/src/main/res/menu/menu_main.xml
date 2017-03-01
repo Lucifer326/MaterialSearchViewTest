@@ -5,11 +5,13 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 
-    <item android:id="@+id/action_search"
-        android:title="Search"
-        android:icon="@drawable/abc_ic_ab_back_material"
-        app:showAsAction="ifRoom|collapseActionView"
-        app:actionViewClass="android.support.v7.widget.SearchView"
-        android:textColor="@android:color/holo_orange_dark"
-        />
+    <!-- drawable is the magnifying glass -->
+    <!-- title is "Search ..." -->
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_action_search"
+        android:orderInCategory="100"
+        android:title="@string/abc_search_hint"
+        app:showAsAction="always" />
+
 </menu>
